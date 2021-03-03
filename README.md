@@ -4,7 +4,7 @@
 
 # Horecio Dias
 
-## Tudo estranho galera! 👋
+## Tudo bem por aí galera?! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack WEB Developer :computer:
 
