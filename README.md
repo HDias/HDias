@@ -20,6 +20,10 @@ Sou um FullStack WEB Developer :computer:
  <br />
  E vamos codar... <img src="https://media0.giphy.com/media/TdRWuQlaiDARWYCatW/giphy.gif" height="100"/>
  <br />
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HorecioDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/horecio/)](https://www.linkedin.com/in/horecio/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-horecio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:horecio@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/horeciodias" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="horeciodias" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/horecio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/horecio/" height="30" width="40" /></a>
+<a href="mailto:horecio@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="horecio@gmail.com" height="30" width="40" /></a>
+</p>
