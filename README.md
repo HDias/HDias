@@ -6,6 +6,7 @@
 
 [![time tracker](https://wakatime.com/badge/github/HDias/NextBlog.svg)](https://wakatime.com/badge/github/HDias/NextBlog)
 [![time tracker](https://wakatime.com/badge/gitlab/NUTFesp/notificapalmas.svg)](https://wakatime.com/badge/gitlab/NUTFesp/notificapalmas)
+[![time tracker](https://wakatime.com/badge/gitlab/NUTFesp/NotificaSUS.svg)](https://wakatime.com/badge/gitlab/NUTFesp/NotificaSUS)
 [![time tracker](https://wakatime.com/badge/gitlab/esusvs/esusvs-app.svg)](https://wakatime.com/badge/gitlab/esusvs/esusvs-app)
 
 ## Tudo bem por aí galera?! 👋
