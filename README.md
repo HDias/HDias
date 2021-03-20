@@ -4,6 +4,10 @@
 
 # Horecio Dias
 
+[![time tracker](https://wakatime.com/badge/github/HDias/NextBlog.svg)](https://wakatime.com/badge/github/HDias/NextBlog)
+[![time tracker](https://wakatime.com/badge/gitlab/NUTFesp/notificapalmas.svg)](https://wakatime.com/badge/gitlab/NUTFesp/notificapalmas)
+[![time tracker](https://wakatime.com/badge/gitlab/esusvs/esusvs-app.svg)](https://wakatime.com/badge/gitlab/esusvs/esusvs-app)
+
 ## Tudo bem por aí galera?! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack WEB Developer :computer:
@@ -20,8 +24,6 @@ Sou um FullStack WEB Developer :computer:
  <br />
  E vamos codar... <img src="https://media0.giphy.com/media/TdRWuQlaiDARWYCatW/giphy.gif" height="100"/>
  <br />
- 
- [![time tracker](https://wakatime.com/badge/github/HDias/NextBlog.svg)](https://wakatime.com/badge/github/HDias/NextBlog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
