@@ -4,8 +4,6 @@
 
 # Horecio Dias
 
-[![time tracker](https://wakatime.com/badge/gitlab/esusvs/esusvs-app.svg)](https://wakatime.com/badge/gitlab/esusvs/esusvs-app)
-
 ## Tudo bem por aí galera?! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack WEB Developer :computer:
