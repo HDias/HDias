@@ -8,7 +8,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack WEB Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Caiena,**
+ :rocket:  &nbsp;
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end em Rails e PHP
  <br/> :blush: &nbsp; Posso te ajudar com Boostrap 3+, Ruby on Rails & Laravel
  <br/> :computer: &nbsp; Minha stack: Ruby on Rails, Laravel, Vue, Mysql, Postgres...
